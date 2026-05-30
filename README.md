@@ -39,16 +39,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/stlick">
-    <img width="390em" src="https://github-readme-stats.vercel.app/api?username=stlick&show_icons=true&theme=vision-friendly-dark" alt="ivan stats"/>
-  </a>
-  <a href="https://github.com/stlick">
-    <img width="328em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stlick&layout=compact&theme=vision-friendly-dark" alt="ivan most languages"/>
-  </a>
-</div>
 
 ### 🌎 Let's Connect
 
